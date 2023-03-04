@@ -7,7 +7,7 @@ import urllib.request as urllib
 
 text = input("User: ")
 
-openai.api_key = "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"
+openai.api_key = "KEY"
 
 endpoint = "https://api.openai.com/v1/engines/text-davinci-002/completions"
 
